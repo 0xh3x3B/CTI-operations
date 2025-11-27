@@ -1,4 +1,4 @@
-# 🛡️ RansomWatch Sentinel
+# 🛡️ RansomSonar Sentinel
 ### Automated Dark Web Threat Intelligence & Monitoring Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -8,7 +8,7 @@
 
 ## 📋 Présentation
 
-**RansomWatch Sentinel** est une infrastructure modulaire de Cyber Threat Intelligence (CTI) conçue pour surveiller de manière proactive les sites de fuites (Leak Sites) des groupes de rançongiciels sur le réseau Tor.
+**RansomSonar Sentinel** est une infrastructure modulaire de Cyber Threat Intelligence (CTI) conçue pour surveiller de manière proactive les sites de fuites (Leak Sites) des groupes de rançongiciels sur le réseau Tor.
 
 Contrairement aux scrapers simples, ce projet implémente une **architecture orientée objet** robuste, capable de résister à la volatilité du Dark Web (changements d'URLs, timeouts, CAPTCHAs) et d'alimenter automatiquement des chaînes de réponse à incident (SOAR).
 
